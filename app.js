@@ -59,7 +59,7 @@ function home() {
         ${u ? '' : '<a class="btn ghost" href="#/auth">Войти</a>'}
       </div>
     </div>
-    <img src="assets/hero.jpg" alt="Самурай в чернильной графике">
+    <img src="hero.jpg" alt="Самурай в чернильной графике">
   </section>
   <div class="stats">
     <div><strong>${LABS.length}</strong>лабораторных работ</div>
